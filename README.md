@@ -50,17 +50,6 @@ Build a relational database to manage all aspects of a university cultural fest.
 
 ---
 
-## 🚀 How to Use
-
-1. Clone this repository.
-2. Open SQL Server Management Studio (SSMS).
-3. Run the scripts in the following order:
-   - `create_tables.sql`
-   - `insert_data.sql`
-4. Use `sample_queries.sql` to test and interact with the database.
-
----
-
 ## 🏁 Conclusion
 
 This project demonstrates effective use of relational database concepts to model a real-world scenario — managing a university fest. It highlights normalization, relationship mapping, and practical SQL usage.
